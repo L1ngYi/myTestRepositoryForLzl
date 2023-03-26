@@ -1,9 +1,8 @@
+#include<memory>
 #include<iostream>
 
 int main()
 {
-	std::cout << "love xiao yuan~";
-	std::cout<<"jiu ming you ni nan!!!";
-	//:)
+	std::cout << "¿´¸çÃÇÐ´µÄlistÈÝÆ÷";
 	return 0;
 }
